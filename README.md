@@ -4,8 +4,8 @@ Projects to practice applying machine learning models to a variety of problems.
 ## Linear Models and Validation Metrics 
 
 Classification Problem 
-Dataset: spam from yellowbrick library 
-Source: https://www.scikit-yb.org/en/latest/api/datasets/spam.html
+### Dataset: spam from yellowbrick library 
+### Source: https://www.scikit-yb.org/en/latest/api/datasets/spam.html
 
 Regression Problem 
 Dataset: concrete from yellowbrick library 
